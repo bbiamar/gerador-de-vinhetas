@@ -1,0 +1,9 @@
+# Nunca versionar planilhas preenchidas ou vinhetas geradas (dados de pacientes)
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.txt
+!modelo_vinhetas.xlsx
+~$*
+__pycache__/
